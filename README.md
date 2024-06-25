@@ -5,7 +5,7 @@ This repositry explains how to setup both OpenCv &amp; PyTorch for C++ on window
 By Following the Below instructions hopefully you will be able to sucessfully run both OpenCV &amp; PyTorch with C++ on vscode & windows OS.
 
 ## Prequesites
-- Go to PyTorch & Download LibTorch Cuda 11.8 by clicking [here](https://download.pytorch.org/libtorch/cu118/libtorch-win-shared-with-deps-2.3.1%2Bcu118.zip)
+- Go to PyTorch & Download LibTorch Cuda 11.8 by clicking [here](https://download.pytorch.org/libtorch/cu118/libtorch-win-shared-with-deps-debug-2.3.1%2Bcu118.zip)
 - Make sure that cuda 11.8 is installed correctly & if not installed [click here to download the installer](https://developer.nvidia.com/cuda-11-8-0-download-archive?target_os=Windows&target_arch=x86_64&target_version=11&target_type=exe_local) **(make sure to choose your correct windows version)**
 - Go to OpenCV & Download the **4.6.0 relaease** for windows you can find it [here](https://opencv.org/releases/)
 - **Make sure you have microsft visual studio compiler installed on your system**
