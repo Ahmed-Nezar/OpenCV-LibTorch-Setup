@@ -64,7 +64,7 @@ By Following the Below instructions hopefully you will be able to sucessfully ru
     ![image](https://github.com/Ahmed-Nezar/OpenCV-LibTorch-Setup/assets/125882735/1d9cd488-f11f-4103-82be-8a53df588608)
 
 - The program should build & compiled successfully
-- 
+  
 ## Getting Help
 If you encounter any problems or have questions while setting up or using this repository, feel free to open an issue.
 
